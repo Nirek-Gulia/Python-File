@@ -12,4 +12,4 @@ class Car:
 # Example usage
 car1 = Car("Suzuki", "Grand Vitara", 2024)
 car1.display_info()
-print("90. This code is written by Prabhjot Kaur ERP- 0221BCA047")
+print("90. This program is written by Nirek Gulia 0221BCA046")
