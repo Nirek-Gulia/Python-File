@@ -49,4 +49,4 @@ mv_ba[0] = 97
 print(ba_mv)
 # Output: bytearray(b'aBCDE')
 
-print("THIS PROGRAM IS WRITTEN BY JAGRIT AHUJA ERP :- 0221BCA142")
+print("This program is written by Nirek Gulia 0221BCA046")
