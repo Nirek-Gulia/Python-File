@@ -21,4 +21,4 @@ cat = Cat()
 
 print(dog.speak())  
 print(cat.speak())  
-print("94. This code is written by Prabhjot Kaur ERP- 0221BCA047")
+print("94. This code is written by Nirek Gulia ERP- 0221BCA046")
