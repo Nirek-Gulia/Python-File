@@ -14,4 +14,9 @@ def greet(name):
     print(f"Hello, {name}!")
 
 greet("Jagrit")
-print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("# WAP for importing specific function
+
+from math_utils import add 
+result = add(5, 6) 
+print(result) 
+print("80. This program is written by Nirek Gulia 0221BCA046")
