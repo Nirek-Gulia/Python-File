@@ -7,4 +7,4 @@ math_utils = importlib.import_module('math_utils')
 # Use the 'add' function from the dynamically imported module
 result = math_utils.add(15, 30)
 print(result)  
-print("89. This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("89. This program is written by Nirek Gulia 0221BCA046")
