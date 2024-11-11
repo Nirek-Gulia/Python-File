@@ -12,4 +12,4 @@ def say_hello():
     print("Hello!")
 
 say_hello()
-print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("This program is written by Nirek Gulia 0221BCA046")
