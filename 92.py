@@ -21,4 +21,4 @@ class Car(Vehicle):
 # Example usage
 car1 = Car("Toyota", "Corolla", 2020, "Gasoline")
 car1.display_info()
-print("92. This code is written by Prabhjot Kaur ERP- 0221BCA047")
+print("92. This program is written by Nirek Gulia 0221BCA046")
