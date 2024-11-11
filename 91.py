@@ -23,4 +23,4 @@ car1.set_year(2022)
 car1.display_info()          
 
 car1.set_year(1800)  
-print("91. This code is written by Prabhjot Kaur ERP- 0221BCA047")
+print("91. This program is written by Nirek Gulia 0221BCA046")
